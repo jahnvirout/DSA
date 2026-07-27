@@ -6,13 +6,16 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        #brute force
+        #Optimal (Floyd's Cycle Detection)
 
-        temp = head
-        visited = set()
-        while temp:
-            if temp in visited:
-                return True
-            visited.add(temp)
-            temp = temp.next
+        slow = head
+        fast = head
+        while fast and fast.next:
+           slow = slow.next
+           fast = fast.next.next
+
+           if fast == slow:
+            return True
         return False
+
+
