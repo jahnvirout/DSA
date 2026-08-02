@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0092-reverse-linked-list-ii](https://github.com/jahnvirout/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jahnvirout/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jahnvirout/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jahnvirout/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jahnvirout/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jahnvirout/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jahnvirout/DSA/tree/master/0234-palindrome-linked-list) |
@@ -95,6 +96,7 @@ Happy Coding! 🚀
 | [0061-rotate-list](https://github.com/jahnvirout/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/jahnvirout/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jahnvirout/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jahnvirout/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jahnvirout/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jahnvirout/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jahnvirout/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -113,4 +115,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jahnvirout/DSA/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jahnvirout/DSA/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jahnvirout/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jahnvirout/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
