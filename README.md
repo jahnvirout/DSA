@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/jahnvirout/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jahnvirout/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jahnvirout/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/jahnvirout/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jahnvirout/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/jahnvirout/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -120,6 +121,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jahnvirout/DSA/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/jahnvirout/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/jahnvirout/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -145,4 +147,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/jahnvirout/DSA/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jahnvirout/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
