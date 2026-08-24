@@ -110,6 +110,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jahnvirout/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/jahnvirout/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -146,9 +147,14 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jahnvirout/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/jahnvirout/DSA/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/jahnvirout/DSA/tree/master/0231-power-of-two) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jahnvirout/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
